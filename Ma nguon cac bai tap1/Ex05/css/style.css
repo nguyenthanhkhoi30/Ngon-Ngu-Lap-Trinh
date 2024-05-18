@@ -1,0 +1,77 @@
+body{
+  
+
+}
+
+/* Global */
+.container{
+  
+
+}
+
+ul{
+ 
+
+}
+
+/* Header **/
+header{
+    background:#35424a;
+    color:#ffffff;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#e8491d 3px solid;
+
+}
+
+header a{
+  
+
+}
+
+header li{
+  
+
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+ 
+
+}
+
+header nav{
+  
+
+}
+
+header .highlight, header .current a{
+    color: red;
+
+}
+
+header a:hover{
+  
+
+}
+
+footer{
+  
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+header ul {
+    display: flex;
+    align-items:center
+  
+}
