@@ -1,0 +1,65 @@
+body{
+  
+}
+
+
+/* Header **/
+header{
+  background:#35424a;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+  
+
+}
+
+header a{
+  
+
+}
+
+header li{
+  display: inline;
+  display: inline-block;
+  display:flex;
+
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ 
+
+}
+
+header .highlight, header .current a{
+  color: red;
+  
+
+}
+
+header a:hover{
+  
+
+}
+
+
+footer{
+  
+
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+
+
